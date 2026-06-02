@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Whistle Aligners — Frontend Assessment
 
 ## Setup & Run
@@ -50,3 +51,7 @@ Used in the "Results You'll Love" section. Product IDs seed placeholder images v
 ## Approach
 
 Matched Whistle's clean, minimal aesthetic — off-white backgrounds, soft purple accents, Fraunces display font for headings paired with DM Sans for body. All components are functional components using hooks. CSS is plain per the assessment requirements (no UI libraries). Images use `picsum.photos` seeded URLs to match proportions from the Figma design.
+=======
+# whistle-react-frontend-assessment
+Frontend Developer Assessment for Unbundl built with React.js and Vite. Developed responsive UI based on Figma design with dynamic data integration using DummyJSON API, loading and error handling, and interactive components.
+>>>>>>> 306c82bd93f71f62662be46af26f4035bffd6295
